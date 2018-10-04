@@ -1,0 +1,5 @@
+This scripts are used for creating Slackware virtual machines 
+using Oracle VirtualBox.
+
+
+Remember to set the PATH for your VirtualBox installation folder
